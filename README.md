@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Video Header -->
-<video src="https://arys-m4a.duckdns.org/i/git/1774542438573.webm" width="100%" style="border-radius: 15px;" controls autoplay loop muted></video>
+<img src="https://raw.githubusercontent.com/tim1540/tim1540/main/cat.gif" width="300" style="border-radius: 15px;" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 ---
 
 ### 🌌 About Me
-I'm a developer utilizing **Google Gemini 24/7** to push the boundaries of what's possible.
+I'm a developer utilizing **Google Gemini** to push the boundaries of what's possible.
 
 </div>
 
