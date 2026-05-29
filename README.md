@@ -42,13 +42,13 @@ I'm a developer utilizing **Google Gemini** to push the boundaries of what's pos
 
 ### 🤝 Connect with me
 <div align="center">
-  <a href="https://arys-m4a.duckdns.org/l/telegram">
+  <a href="https://arysm4a.qzz.io/l/telegram">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://arys-m4a.duckdns.org/l/tiktok">
+  <a href="https://arysm4a.qzz.io/l/tiktok">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://arys-m4a.duckdns.org/l/roblox">
+  <a href="https://arysm4a.qzz.io/l/roblox">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
 </div>
