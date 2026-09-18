@@ -40,15 +40,15 @@ I'm a developer utilizing **Google Gemini** to push the boundaries of what's pos
   </picture>
 </div>
 
-### 🤝 Connect with me
+### 🤝 Contact me
 <div align="center">
-  <a href="https://arysm4a.qzz.io/l/telegram">
+  <a href="https://arys.lol/l/telegram">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://arysm4a.qzz.io/l/tiktok">
+  <a href="https://arys.lol/l/tiktok">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://arysm4a.qzz.io/l/roblox">
+  <a href="https://arys.lol/l/roblox">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
 </div>
